@@ -1,0 +1,248 @@
+1610392862 - DEBUG --> getting a connection 
+1610392888 - DEBUG --> got it 
+1610392888 - DEBUG --> getting a connection 
+1610392888 - DEBUG --> got the connection 
+1610392888 - DEBUG --> user =[beetlebored@gmail.com] 
+1610392888 - DEBUG --> password =[7044e832d053e125482e947fbf14fda82ce068c8ab8d763662891976583c9e1f] 
+1610392888 - DEBUG --> gluten =[1] 
+1610392888 - DEBUG --> gluten =[1] 
+1610392888 - DEBUG --> gluten =[0] 
+1610392888 - DEBUG --> gluten =[0] 
+1610392888 - DEBUG --> gluten =[1] 
+1610392888 - DEBUG --> gluten =[0] 
+1610392888 - DEBUG --> gluten =[0] 
+1610392888 - DEBUG --> getting a connection 
+1610392899 - DEBUG --> getting a connection 
+1610392900 - DEBUG -->  
+1610392903 - DEBUG -->  
+1610392903 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1610392903 - DEBUG --> 1 
+1610392903 - DEBUG --> getting a connection 
+1610392904 - DEBUG --> 1 
+1610392904 - DEBUG --> 1 
+1610392904 - DEBUG --> 1 
+1610392904 - DEBUG --> 1 
+1610392904 - DEBUG --> 1 
+1610392904 - DEBUG --> 1 
+1610392904 - DEBUG --> 1 
+1610392904 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1610392904 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1610392904 - DEBUG --> beetlebored@gmail.com 
+1610392904 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1610392904 - DEBUG --> getting a connection 
+1610392904 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1610392904 - DEBUG -->  
+1610392904 - DEBUG --> getting a connection 
+1610392909 - DEBUG --> 
+Creamy Cauliflower Pakora Soup 
+1610392909 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1610392909 - DEBUG --> https://www.tasteofhome.com/recipes/creamy-cauliflower-pakora-soup/ 
+1610392909 - DEBUG --> getting a connection 
+1610392911 - DEBUG -->  
+1610392913 - DEBUG -->  
+1610392913 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1610392913 - DEBUG --> 0 
+1610392913 - DEBUG --> getting a connection 
+1610392913 - DEBUG --> 1 
+1610392913 - DEBUG --> 0 
+1610392913 - DEBUG --> 1 
+1610392913 - DEBUG --> 1 
+1610392913 - DEBUG --> 1 
+1610392913 - DEBUG --> 0 
+1610392913 - DEBUG --> 1 
+1610392913 - DEBUG --> 
+The Chewy Gluten Free 
+1610392913 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392913 - DEBUG --> beetlebored@gmail.com 
+1610392913 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392913 - DEBUG --> getting a connection 
+1610392916 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1610392916 - DEBUG -->  
+1610392916 - DEBUG --> getting a connection 
+1610392923 - DEBUG --> 
+The Chewy Gluten Free 
+1610392923 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392923 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392923 - DEBUG --> getting a connection 
+1610392928 - DEBUG -->  
+1610392931 - DEBUG -->  
+1610392931 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1610392931 - DEBUG --> 0 
+1610392931 - DEBUG --> getting a connection 
+1610392933 - DEBUG --> 1 
+1610392933 - DEBUG --> 0 
+1610392933 - DEBUG --> 1 
+1610392933 - DEBUG --> 1 
+1610392933 - DEBUG --> 1 
+1610392933 - DEBUG --> 0 
+1610392933 - DEBUG --> 1 
+1610392933 - DEBUG --> 
+The Chewy Gluten Free 
+1610392933 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392933 - DEBUG --> beetlebored@gmail.com 
+1610392933 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392933 - DEBUG --> getting a connection 
+1610392934 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1610392934 - DEBUG -->  
+1610392934 - DEBUG --> getting a connection 
+1610392935 - DEBUG --> 
+The Chewy Gluten Free 
+1610392935 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392935 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392935 - DEBUG --> getting a connection 
+1610392936 - DEBUG -->  
+1610392938 - DEBUG -->  
+1610392938 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1610392938 - DEBUG --> 0 
+1610392938 - DEBUG --> getting a connection 
+1610392939 - DEBUG --> 1 
+1610392939 - DEBUG --> 0 
+1610392939 - DEBUG --> 1 
+1610392939 - DEBUG --> 1 
+1610392939 - DEBUG --> 1 
+1610392939 - DEBUG --> 0 
+1610392939 - DEBUG --> 1 
+1610392939 - DEBUG --> 
+The Chewy Gluten Free 
+1610392939 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392939 - DEBUG --> beetlebored@gmail.com 
+1610392939 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392939 - DEBUG --> getting a connection 
+1610392939 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1610392939 - DEBUG -->  
+1610392939 - DEBUG --> getting a connection 
+1610392940 - DEBUG --> 
+The Chewy Gluten Free 
+1610392940 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392940 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610392940 - DEBUG --> getting a connection 
+1610392941 - DEBUG -->  
+1610392944 - DEBUG --> getting a connection 
+1610393088 - DEBUG --> getting a connection 
+1610393089 - DEBUG -->  
+1610393092 - DEBUG -->  
+1610393092 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1610393092 - DEBUG --> 2 
+1610393092 - DEBUG --> getting a connection 
+1610393092 - DEBUG --> 1 
+1610393092 - DEBUG --> 1 
+1610393092 - DEBUG --> 1 
+1610393092 - DEBUG --> 1 
+1610393092 - DEBUG --> 1 
+1610393092 - DEBUG --> 0 
+1610393092 - DEBUG --> 1 
+1610393092 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1610393092 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393092 - DEBUG --> beetlebored@gmail.com 
+1610393092 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393092 - DEBUG --> getting a connection 
+1610393092 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1610393092 - DEBUG -->  
+1610393092 - DEBUG --> getting a connection 
+1610393093 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1610393093 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393093 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393093 - DEBUG --> getting a connection 
+1610393094 - DEBUG -->  
+1610393115 - DEBUG -->  
+1610393115 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1610393115 - DEBUG --> 2 
+1610393115 - DEBUG --> getting a connection 
+1610393122 - DEBUG --> 1 
+1610393122 - DEBUG --> 1 
+1610393122 - DEBUG --> 1 
+1610393122 - DEBUG --> 1 
+1610393122 - DEBUG --> 1 
+1610393122 - DEBUG --> 0 
+1610393122 - DEBUG --> 1 
+1610393122 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1610393122 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393122 - DEBUG --> beetlebored@gmail.com 
+1610393122 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393122 - DEBUG --> getting a connection 
+1610393124 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1610393124 - DEBUG -->  
+1610393124 - DEBUG --> getting a connection 
+1610393125 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1610393125 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393125 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393125 - DEBUG --> getting a connection 
+1610393128 - DEBUG -->  
+1610393145 - DEBUG --> getting a connection 
+1610393260 - DEBUG --> getting a connection 
+1610393260 - DEBUG -->  
+1610393264 - DEBUG -->  
+1610393264 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1610393264 - DEBUG --> 2 
+1610393264 - DEBUG --> getting a connection 
+1610393264 - DEBUG --> 1 
+1610393264 - DEBUG --> 1 
+1610393264 - DEBUG --> 1 
+1610393264 - DEBUG --> 1 
+1610393264 - DEBUG --> 1 
+1610393264 - DEBUG --> 0 
+1610393264 - DEBUG --> 1 
+1610393264 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1610393264 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393264 - DEBUG --> beetlebored@gmail.com 
+1610393264 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393264 - DEBUG --> getting a connection 
+1610393264 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1610393264 - DEBUG -->  
+1610393264 - DEBUG --> getting a connection 
+1610393264 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1610393264 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393264 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393264 - DEBUG --> getting a connection 
+1610393264 - DEBUG -->  
+1610393266 - DEBUG -->  
+1610393266 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1610393266 - DEBUG --> 2 
+1610393266 - DEBUG --> getting a connection 
+1610393266 - DEBUG --> 1 
+1610393266 - DEBUG --> 1 
+1610393266 - DEBUG --> 1 
+1610393266 - DEBUG --> 1 
+1610393266 - DEBUG --> 1 
+1610393266 - DEBUG --> 0 
+1610393266 - DEBUG --> 1 
+1610393266 - DEBUG --> Gluten- and Dairy-Free Cinnamon Raisin Bread 
+1610393266 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393266 - DEBUG --> beetlebored@gmail.com 
+1610393266 - DEBUG --> https://www.tasteofhome.com/recipes/gluten-and-dairy-free-cinnamon-raisin-bread/ 
+1610393266 - DEBUG --> getting a connection 
+1610393266 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1610393266 - DEBUG --> beetlebored@gmail.com 
+1610393266 - DEBUG --> getting a connection 
+1610393266 - DEBUG -->  
+1610393270 - DEBUG --> getting a connection 
+1610393274 - DEBUG --> getting a connection 
+1610393274 - DEBUG -->  
+1610393277 - DEBUG -->  
+1610393277 - DEBUG --> dfjfdgjagsfjsdgfjsfgjsdfgoeraiwrirteiwertiwrtiertwiwertiewrti 
+1610393277 - DEBUG --> 0 
+1610393277 - DEBUG --> getting a connection 
+1610393277 - DEBUG --> 1 
+1610393277 - DEBUG --> 0 
+1610393277 - DEBUG --> 1 
+1610393277 - DEBUG --> 1 
+1610393277 - DEBUG --> 1 
+1610393277 - DEBUG --> 0 
+1610393277 - DEBUG --> 1 
+1610393277 - DEBUG --> 
+The Chewy Gluten Free 
+1610393277 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610393277 - DEBUG --> beetlebored@gmail.com 
+1610393277 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610393277 - DEBUG --> getting a connection 
+1610393277 - DEBUG --> fasdjasdfjasdfjjasdfjsdaf 
+1610393277 - DEBUG -->  
+1610393277 - DEBUG --> getting a connection 
+1610393277 - DEBUG --> 
+The Chewy Gluten Free 
+1610393277 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610393277 - DEBUG --> https://www.foodnetwork.com/recipes/alton-brown/the-chewy-gluten-free-recipe-1947962 
+1610393277 - DEBUG --> getting a connection 
+1610393277 - DEBUG -->  
+1610393278 - DEBUG --> getting a connection 
